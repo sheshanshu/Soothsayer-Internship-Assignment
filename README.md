@@ -122,7 +122,7 @@ Open in browser → http://localhost:8501
 ## Troubleshooting
 
 - Camelot error → Requires Ghostscript + Tk.
-      * Ubuntu: sudo apt install ghostscript python3-tk
+      - Ubuntu: sudo apt install ghostscript python3-tk
 - Tabula error → Requires Java (JDK).
 - Ollama not responding → Ensure Ollama app/daemon is running.
 - Scanned PDFs not extracted → Check Tesseract is installed and in PATH.
