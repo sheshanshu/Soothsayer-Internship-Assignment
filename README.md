@@ -1,6 +1,6 @@
 # Soothsayer-Internship-Assignment
 
-# Financial Document Q&A Assistant
+## Financial Document Q&A Assistant
 
 ## Overview
 This project is my **internship assignment for Soothsayer Analytics India Pvt. Ltd.**  
