@@ -9,6 +9,16 @@ Built with **Streamlit + FAISS + Sentence-Transformers + Ollama**.
 
 ---
 
+## ⚡ Features
+- Upload PDF/Excel financial documents.
+- Extract text & tables.
+- Normalize numeric values.
+- Build a semantic search index (FAISS).
+- Ask natural language questions about the document.
+- Run everything **locally** with Ollama.
+
+---
+
 ## Setup (Local Run)
 
 1. Clone the repo:
