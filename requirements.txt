@@ -1,0 +1,14 @@
+streamlit
+pdfplumber
+pymupdf
+pytesseract
+camelot-py[cv]
+tabula-py
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+requests
+python-magic
+babel
+Pillow
