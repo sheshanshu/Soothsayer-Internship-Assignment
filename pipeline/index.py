@@ -1,3 +1,4 @@
+"""
 Chunking + embedding + FAISS index management.
 Functions:
  - build_index_and_embeddings(doc_meta, model_name)
